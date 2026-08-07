@@ -1,4 +1,10 @@
 ## Bem-vindo(a) ao meu perfil do github!  😁
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050000,50:ff0000,100:ff0000&text=LUIS%20FILIPE&fontColor=ffffff&animation=twinkling&fontAlignY=45"/>
+
+</div>
  
 ## Redes sociais:
  
